@@ -55,5 +55,13 @@
   <ItemGroup>
     <None Include="Resources\NinaB.tinyfnt" />
     <None Include="Resources\small.tinyfnt" />
+    <None Include="Resources\ubuntu12.tinyfnt" />
+    <None Include="Resources\ubuntu12c.tinyfnt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minima.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons.gif" />
   </ItemGroup>
 </Project>
